@@ -2,6 +2,6 @@
  * Simple query script to display all subject data
 */
 
-use `enrolment`;
+-- use `enrolment`;
 
 SELECT * FROM Subjects;
